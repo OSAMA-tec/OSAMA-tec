@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Osama, a full-time frontend freelance developer 👨‍💻 working remotely since 2021🚀</div>  
+### <div align="center">I'm Osama, a full-time full stack freelance developer 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working on [NFTs Market]
