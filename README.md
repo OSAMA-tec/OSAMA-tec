@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-tec&label=Profile%20views&color=0e75b6&style=flat" alt="osama-tec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-tec" alt="osama-tec" /></a> </p>
-
 - 🔭 I’m currently working on [ChatSystem](https://github.com/OSAMA-tec/ChatApp)
 
 - 🌱 I’m currently learning **Nodejs,Socketio,Etherjs,Web3js**
