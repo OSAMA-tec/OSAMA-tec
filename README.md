@@ -14,14 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Osama-tec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## Backend Development Service
-
-Check out my backend development services on Contra:
-
-<iframe frameborder="0" height="172px" src="https://contra.com/s/3ZmRb6Z2-backend-development/embed?structure=horizontal" title="View this service on Contra" width="100%"></iframe>
-
-For a detailed overview of my services, including API development with Node.js, Socket.io, and MongoDB, visit my [Contra Service Page](https://contra.com/s/3ZmRb6Z2-backend-development).
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
