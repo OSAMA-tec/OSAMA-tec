@@ -1,7 +1,34 @@
 # 💫 About Me:
 🔭 I’m currently working on Encrypted ChatSystem<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Blockchain Technology<br>💬 Ask me about Backend and Blockchain<br>⚡ Fun fact In a world of 0's and 1's, I'm the exception handler. Debugging life one line of code at a time!
 
+👇 Hit in your console or terminal to connect with me.
 
+```bash
+npx osama
+```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const osama = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Typescript", "Solidity"],
+    askMeAbout: ["backend dev", "tech", "blockchain dev", "gaming"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Nest", "Express"],
+        },
+        Blockchain: {
+            native: ["Etherum","Solana","Web3","Etherjs"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications","decentralized applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_hashmi111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamahash) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/InfiniteLoop) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OSMHASHMI1) 
 
@@ -11,56 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Osama-tec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Osama-tec&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-tec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Osama-tec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Osama-tec&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
-
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 <!--START_SECTION:waka-->
@@ -106,7 +83,7 @@ Sunday                   911 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
 TypeScript               7 hrs 6 mins        ██████████████░░░░░░░░░░░   54.00 % 
@@ -140,7 +117,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Osama-tec&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hashmiosama) 
