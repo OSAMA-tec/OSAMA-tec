@@ -21,6 +21,124 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Osama-tec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+
+
+
+
+
+
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%2051%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1889-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 182.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Tuesday                  526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                792 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Thursday                 521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Saturday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Sunday                   911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               7 hrs 6 mins        ██████████████░░░░░░░░░░░   54.00 % 
+JavaScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+JSON                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+HTML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Vue.js                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+
+🔥 Editors: 
+WebStorm                 13 hrs 8 mins       █████████████████████████   99.69 % 
+DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+💻 Operating System: 
+Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            ████████████░░░░░░░░░░░░░   47.83 % 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+
+ Last Updated on 26/01/2024 00:23:17 UTC
+<!--END_SECTION:waka-->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Osama-tec&icon=0&color=0)](https://visitcount.itsvg.in)
 
