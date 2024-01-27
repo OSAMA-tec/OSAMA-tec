@@ -18,7 +18,7 @@ const osama = {
             js: ["Node", "Nest", "Express"],
         },
         Blockchain: {
-            native: ["Etherum","Solana","Web3","Etherjs"]
+            native: ["Ethereum","Solana","Web3","Etherjs"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
