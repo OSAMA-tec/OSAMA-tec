@@ -35,31 +35,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-tec&theme=matrix&hide_border=true" width="49%" alt="streak stats"/>
 </div>
 
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Osama-tec&theme=matrix&hide_border=true&area=true" width="100%" alt="contribution graph"/>
-
 <!-- Tech Stack -->
 <div align="center">
   <h3>Tech Stack Proficiency:</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,nodejs,react,docker,aws,git,linux" />
 </div>
 
-<!-- Live Coding Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
-</div>
 
 <!-- System Status -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=4000&color=2BF723&center=true&vCenter=true&width=800&lines=System+Status:+Online;Memory+Usage:+Optimal;CPU:+Running+at+100%;Connection:+Established">
 </div>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Osama-tec&color=2bbc8a&style=for-the-badge" alt="Profile Views"/>
-</div>
-
 <!-- Binary Footer -->
 <div align="center">
   <pre><code>
