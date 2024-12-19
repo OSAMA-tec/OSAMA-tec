@@ -27,21 +27,7 @@
 }
 ```
 
-<!-- GitHub Stats Section -->
-<h2>⚡ System Analytics</h2>
 
-```typescript
-class GitHubMetrics {
-  public static getStats(): Stats {
-    return {
-      totalContributions: "1000+",
-      pullRequests: "100+",
-      commits: "500+",
-      repositories: "50+"
-    };
-  }
-}
-```
 
 <!-- GitHub Stats Cards -->
 <div align="center">
