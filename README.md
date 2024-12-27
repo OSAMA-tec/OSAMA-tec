@@ -14,7 +14,7 @@
 ┌──────────────────────────────────────────┐
 │ Osama                                    │
 │ Full Stack Developer | Blockchain Expert │
-│ Location: /dev/world/blockchain         │
+│ Location: /dev/world/blockchain          │
 └──────────────────────────────────────────┘
 
 > cat skills.json
