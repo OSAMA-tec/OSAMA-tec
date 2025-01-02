@@ -35,13 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-tec&theme=matrix&hide_border=true" width="49%" alt="streak stats"/>
 </div>
 
-<!-- Tech Stack -->
-<div align="center">
-  <h3>Tech Stack Proficiency:</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,solidity,nodejs,react,docker,aws,git,linux" />
-</div>
-
-
 <!-- System Status -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=4000&color=2BF723&center=true&vCenter=true&width=800&lines=System+Status:+Online;Memory+Usage:+Optimal;CPU:+Running+at+100%;Connection:+Established">
