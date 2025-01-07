@@ -10,7 +10,7 @@
 
 <!-- Developer Info -->
 ```bash
-> whoami
+> whoami  
 ┌──────────────────────────────────────────┐
 │ Osama                                    │
 │ Full Stack Developer | Blockchain Expert │
