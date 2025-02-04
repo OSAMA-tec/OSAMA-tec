@@ -19,8 +19,8 @@
 
 > cat skills.json
 {
-  "languages": ["JavaScript", "TypeScript", "Python", "Solidity"],
-  "backend": ["Node.js", "Express", "NestJS"],
+  "languages": ["JavaScript", "TypeScript", "Python", "Solidity", "GoLang"],
+  "backend": ["Node.js", "Express", "NestJS", "Gin"],
   "blockchain": ["Ethereum", "Web3", "Smart Contracts"],
   "databases": ["MongoDB", "MySQL", "PostgreSQL"],
   "tools": ["Git", "Docker", "AWS", "Linux"]
