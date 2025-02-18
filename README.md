@@ -9,7 +9,7 @@
 </div>  
 
 <!-- Developer Info -->
-```bash
+```bash     
 > whoami  
 ┌──────────────────────────────────────────┐
 │ Osama                                    │
